@@ -1,2 +1,1 @@
-# eaglercraft-builds
-Download old builds at https://archive.eaglercraft.rip/
+### Download old builds at [https://archive.eaglercraft.rip/](https://archive.eaglercraft.rip/)
